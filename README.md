@@ -1,1 +1,1 @@
-# WDS
+# Work Day Scheduler. Past hourly blocks in grey. Current hour block in red. Avaialalbe hourly blocks in green. Add appointment to any available green zone by typing in appt namne and clicking save icon on the right.
