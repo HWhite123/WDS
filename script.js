@@ -1,5 +1,5 @@
 const block = document.getElementById("block");
-const currentDay = document.getElementById("currentDay");
+const current Day = document.getElementById("currentDay");
 
 //saving event to local storage
 const saveData = (ind) => {
